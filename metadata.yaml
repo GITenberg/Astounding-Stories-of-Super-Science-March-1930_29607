@@ -1,0 +1,42 @@
+_repo: Astounding-Stories-of-Super-Science-March-1930_29607
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 29607-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+  editor:
+    agent_name: Bates, Harry
+    aliases:
+    - Bates, Hiram Gilmore
+    - Winter, H. G.
+    birthdate: 1900
+    deathdate: 1981
+    gutenberg_agent_id: '33755'
+    url: http://www.gutenberg.org/2009/agents/33755
+    wikipedia: http://en.wikipedia.org/wiki/Harry_Bates_(author)
+description: ''
+gutenberg_bookshelf:
+- Science Fiction
+- Astounding Stories
+gutenberg_issued: '2009-08-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29607'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PN'
+- !lcsh 'Science fiction -- Periodicals'
+- !lcsh 'Science fiction, American -- Periodicals'
+tableOfContents: "Cold Light / S. P. Meek\r\nBrigands of the Moon (Part 1 of 4) /\
+  \ Ray Cummings\r\nThe Soul Master / Will Smith and R. J. Robbins\r\nFrom the Ocean's\
+  \ Depths / Sewell Peaslee Wright\r\nVandals of the Stars / A. T. Locke"
+title: Astounding Stories of Super-Science, March 1930
+url: http://www.gutenberg.org/ebooks/29607
